@@ -118,14 +118,14 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 60%;
   height: 60%;
 }
 
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -435px;
+  top: -635px;
   left: 40%;
   /* transform: scale(0.1); */
 }
@@ -150,7 +150,7 @@ body {
 .eight svg {
   width: 25px;
   position: absolute;
-  top: 0;
+  top: -250px;
   left: 0;
   visibility: hidden;
   z-index: -1;
