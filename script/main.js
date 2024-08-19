@@ -215,7 +215,7 @@ const animationTimeline = () => {
         scale: 3.5,
         opacity: 0,
         x: 25,
-        y: -155,
+        y: -555,
         rotationZ: -45
       },
       "-=2"
